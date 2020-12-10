@@ -1,9 +1,9 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
+name: Computer Projects
+description: Engineering and Programming Projects
 destination: jekyllbuild
-url: #place url
-baseurl: #place folder name if site is served in subfolder
+url: https://www.projects.markinfo.dev/
+baseurl: https://www.markinfo.dev/
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
@@ -15,14 +15,7 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
-instagram: "#"
-twitter: "#"
-facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+linkedin: https://www.linkedin.com/in/mark-ashinhust-3aa5b9193/
 
 encoding: utf-8
 defaults:
