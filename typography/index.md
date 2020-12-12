@@ -1,6 +1,6 @@
 ---
 layout: page-classic-sidebar-right
-title: Typography
+title: About Me
 ---
 
-# About Me
+My name is Mark Ashinhust
