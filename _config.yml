@@ -1,8 +1,8 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
+name: Projects
+description: Computer Engineering Projects
 destination: jekyllbuild
-url: #place url
+url: https://www.markinfo.dev/
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8
