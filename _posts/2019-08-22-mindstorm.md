@@ -24,5 +24,5 @@ category: [ASU]
 * By working as a team and delegating our work together to ensure that the project was completed successfully and on time
 
 
-[Project Site](https://www.mindstorm.markinfo.dev/)  
-[GitHub Repository](https://github.com/Markay12/mindstormsEV3)
+[Project Site](https://www.mindstorm.markinfo.dev/)    
+[GitHub Repository](https://github.com/Markay12/mindstormsEV3)  
