@@ -15,4 +15,4 @@ category: [Personal]
 Reference the README.md file from the GitHub repo link below
 
 [TopGG Hosting](https://top.gg/bot/763572136840790047)  
-[GitHub Repository](https://github.com/Markay12/headquartersDiscordBot)
+[GitHub Repository](https://github.com/Markay12/headquartersDiscordBot)  
