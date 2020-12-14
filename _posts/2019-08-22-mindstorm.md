@@ -6,8 +6,6 @@ tags: [automation MATLAB]
 category: [ASU]
 ---
 
-![Mindstorms Car](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1402%2F8033%2Fproducts%2Fcompetitionmodel1_copy_200x200.jpg%3Fv%3D1533058720&f=1&nofb=1 "MindstormsEV3 Robot")
-
 ## What is the Mindstorms EV3 Robot Project?
 
 * This project involves the LEGO Mindstorms EV3 robot with the mission of completing navigation through a maze autonomously. Additionally, this robot was required to stop when sensing certain colors on the ground (stop sign) and had to successfully pick up a *passenger* and bring them to the ending destination. 
