@@ -2,7 +2,7 @@
 author: Mark Ashinhust  
 title: Mindstorms EV3 Robot
 featimg: mindstorms.jpg
-tags: [automation, MATLAB]
+tags: [Automation, MATLAB]
 category: [ASU]
 ---
 
