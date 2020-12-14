@@ -2,7 +2,7 @@
 author: Mark Ashinhust  
 title: Mindstorms EV3 Robot
 featimg: mindstorms.jpg
-tags: [automation MATLAB]
+tags: [automation, MATLAB]
 category: [ASU]
 ---
 
@@ -50,7 +50,7 @@ You may also find the following files useful for programming your robot:
 ! To move the robot straight forward Motor B is 3 less power than A
 
 
-### *_Demonstration Day_*
+### **Demonstration Day**
 ---
 
 The main rules of the course were a little difficult in the final go of the robot, however, we were able to successfully get the robot through the course having a drop off and pick up point. Our robot did not work in a fully autonomous style, however, it did go through at least 1/3 of the course in an autonomous style. Videos and pictures will be updated soon.
