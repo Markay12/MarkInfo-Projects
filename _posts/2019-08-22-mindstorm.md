@@ -19,13 +19,15 @@ category: [ASU]
 
 ![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa-%2FAAuE7mDJmHRDL4dE287mAkKkx6usagWNcF8rg5yQbg%3Ds100-mo-c-c0xffffffff-rj-k-no&f=1&nofb=1)
 
-You can find all current MATLAB documentation for the LEGO EV3 utility files implemented in this class at the following [this](https://sites.google.com/a/asu.edu/fse100-cse-wiki/ev3-matlab-library-documentation)
+You can find all current MATLAB documentation for the LEGO EV3 utility files implemented in this class at the following [link](https://sites.google.com/a/asu.edu/fse100-cse-wiki/ev3-matlab-library-documentation)
 
 You may also find the following files useful for programming your robot:
 
-* Installing MATLAB and EV3 utility files on your personal computer-
-[Personal Machine Software](https://github.com/Markay12/mindstormsEV3/blob/master/Personal%20Machine%20Software%20Install.pdf)
-[EV3 Toolbox](https://github.com/Markay12/mindstormsEV3/blob/master/EV3_Toolbox.zip)
+* Installing MATLAB and EV3 utility files on your personal computer  
+[Personal Machine Software](https://github.com/Markay12/mindstormsEV3/blob/master/Personal%20Machine%20Software%20Install.pdf)  
+
+[EV3 Toolbox](https://github.com/Markay12/mindstormsEV3/blob/master/EV3_Toolbox.zip)  
+
 
 * [Introduction to EV3](https://github.com/Markay12/mindstormsEV3/blob/master/Introduction%20to%20EV3.pdf)
 
@@ -37,20 +39,13 @@ You may also find the following files useful for programming your robot:
 ### *Helpful Links*
 ----------------------
 
-https://www.mathworks.com/help/supportpkg/legomindstormsev3io/ref/readcolor.html
+[Color Detection](https://www.mathworks.com/help/supportpkg/legomindstormsev3io/ref/readcolor.html)  
 
+[Object Detection](https://education.lego.com/en-us/lessons/mindstorms-ev3/object-detection#Planitem2)  
 
-// How to start with automatic detection
+[Ultrasonic Sensors](https://makecode.mindstorms.com/reference/sensors/ultrasonic/on-event)  
 
-https://education.lego.com/en-us/lessons/mindstorms-ev3/object-detection#Planitem2
-
-//How to run the code
-
-https://makecode.mindstorms.com/reference/sensors/ultrasonic/on-event
-
-//set up collision alarm
-
-https://www.mathworks.com/help/supportpkg/legomindstormsev3io/examples/build-a-collision-alarm-using-the-ev3-ultrasonic-sensor.html
+[Collision Detection](https://www.mathworks.com/help/supportpkg/legomindstormsev3io/examples/build-a-collision-alarm-using-the-ev3-ultrasonic-sensor.html)  
 
 ! To move the robot straight forward Motor B is 3 less power than A
 
