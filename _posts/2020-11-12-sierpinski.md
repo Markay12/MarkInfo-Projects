@@ -23,3 +23,7 @@ In this demonstration we used the Sierpinski Carpet which is a derivative of man
 
 
 Understanding the math behind this is definitely something to look at more and study, but just looking at it will suffice.  
+
+
+[Full Project](https://www.sierpinski.markinfo.dev/)
+[Code](https://github.com/Markay12/sierpinskiCarpet/tree/gh-pages)
