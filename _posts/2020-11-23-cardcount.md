@@ -1,7 +1,7 @@
 ---
 author: Mark Ashinhust  
 title: Card Counting
-featimg: cardCounting.jpg
+featimg: cardCount.jpg
 tags: [C++, C, OOP, Data Analysis]
 category: [Personal]
 ---
