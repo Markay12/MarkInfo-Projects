@@ -6,7 +6,7 @@ tags: [Java, Data Structures]
 category: [ASU]
 ---
 
-* A Java program that describes the Linked List Data Structure. The website describes how to use linked list data strucutres and what the program will display.
+* A Java program that describes the Linked List Data Structure. The website describes how to use linked list data strucutres and what the program will display.  
 
 * Simple switch menu to add objects to a linked list. Basic iteration of strings
 
