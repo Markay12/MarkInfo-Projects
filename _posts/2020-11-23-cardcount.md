@@ -6,7 +6,6 @@ tags: [C++, C, OOP, Data Analysis]
 category: [Personal]
 ---
 
-### Card Counting
 
 Ever wondered how some people are so good at poker, blackjack or any card game?  
 Well, these people may very well be card counting. Something which has since been illegal and not permitted in many environments  
