@@ -10,7 +10,8 @@ category: [C++]
 ---
 
 
-## What is Sierpinski's Carpet?
+### What is Sierpinski's Carpet?
+---
 
 This 'carpet' is called a fractal design and was implemented into C++ via my algorithm. A fractal design is a self-similar subset of Euclidean space whose fractal dimension strictly exceeds its topological dimension. The most notable of these can be found with the Mandelbrot set.    
 
