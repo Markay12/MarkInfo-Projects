@@ -1,7 +1,7 @@
 ---
 author: Mark Ashinhust  
 title: Seed Cities
-featimg: seedcities.jpg
+featimg: seedcities.png
 tags: [Xamarin, SQL, Project, IN-PROGRESS]
 category: [Group, ASU]
 ---
