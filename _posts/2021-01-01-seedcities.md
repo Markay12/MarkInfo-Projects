@@ -7,7 +7,6 @@ category: [Group, ASU]
 ---
 
 
-## Seed Cities
 ---
 
 ### The problem?
@@ -16,9 +15,10 @@ How we treat and respect our Earth. What solutions for climate change, agricultu
 
 And this has led to...  
 
+- Labor shortages in farming leads to inaccessibility to mass produce  
 
-- Labor shortages in farming leads to inaccessibility to mass produce
-- Underrepresented low-income populations in cities are subjectedto food deserts and swamps, diminishing their human right tofood security
+- Underrepresented low-income populations in cities are subjectedto food deserts and swamps, diminishing their human right to food security  
+
 ---
 
 ### Our Solutions
