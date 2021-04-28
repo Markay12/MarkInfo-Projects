@@ -1,7 +1,7 @@
 ---
 author: Mark Ashinhust  
 title: Seed Cities
-featimg: 
+featimg: seedcities.jpg
 tags: [Xamarin, SQL, Project, IN-PROGRESS]
 category: [Group, ASU]
 ---
@@ -34,7 +34,8 @@ Sustainable Development Goals
 5. Decent Work and Economic Growth
 6. Sustainable Cities and Communities
 7. Responsible Consumption and Production
-8. Parternships for the Goals
+8. Parternships for the Goals  
+
 ---
 
 ### Community Solutions
