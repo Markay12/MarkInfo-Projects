@@ -2,7 +2,7 @@
 author: Mark Ashinhust  
 title: Seed Cities
 featimg: 
-tags: [Xamarin, SQL, Project]
+tags: [Xamarin, SQL, Project, IN-PROGRESS]
 category: [Group, ASU]
 ---
 
@@ -94,3 +94,5 @@ Environmental
 
 
 [Facebook](https://www.facebook.com/seedcitiesaz)
+[GitHub](https://github.com/Founding-Hackers/ImagineCup/tree/Feature/LandingPage)
+* Github page is still under production, not yet completed
