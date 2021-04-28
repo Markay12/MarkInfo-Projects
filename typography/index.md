@@ -7,7 +7,7 @@ title: About Me
 
 
 Hello! My name is Mark Ashinhust and I am a student at Arizona State University.  
-I am currently in the second semester of my sophomore year studying Computer Systems Engineering and Computational Mathematics.
+I am currently in my junior year studying Computer Systems Engineering and Computational Mathematics.
 
 
 I have a strong passion for technology and programming and have always wanted to follow something down this path. Now that I have finally made the jump into a secondary education, I am learning all of the subcategories within this career. These projects represent my branching into many of these categories and learning what I can do as a computer engineer. I have also completed multiple circuits classes which have brought great interest to me as well.
