@@ -1,7 +1,10 @@
 ---
 author: Mark Ashinhust  
+layout: post-full
+type: youtube
+yt-video-id: oA4EU5AJblQ
+homedisplay: iframe
 title: Seed Cities
-featimg: seedcities.png
 tags: [Xamarin, SQL, Project, IN-PROGRESS]
 category: [Group, ASU]
 ---
