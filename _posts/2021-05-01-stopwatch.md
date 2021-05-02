@@ -95,6 +95,7 @@ Let's take a look back at our code and begin
 1. The first thing we are going to want to pay attention to is making sure that we include valuable imports for a working LCD screen  
     - These two lines of code will import important libraries that allow us to communicate with our LCD screen and display our data  
 
+
 ~~~c++
 
 #include <SPI.h>
@@ -112,6 +113,8 @@ void loop()
 }
 
 ~~~
+
+
 
 2. Now we are going to do two things before getting into our `setup()` method
     - The first thing is setting up which pins we are using on our LCD shield which correlate physically with how we want to view our displayed information
