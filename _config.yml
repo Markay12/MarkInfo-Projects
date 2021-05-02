@@ -4,7 +4,7 @@ bio:                'Custom Electrical/Computer Systems Engineering Projects'
 description:        "Interested in a cool project? Learn how to do one! Learn and explore interesting learning paths and ventures!"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png' #update logo
+logo:               'assets/img/circuit-logo.png' #update logo
 background:         'assets/img/circuit-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
