@@ -93,7 +93,7 @@ Great! Now that you have everything else setup, we can begin to code our Arduino
 Let's take a look back at our code and begin  
 
 1. The first thing we are going to want to pay attention to is making sure that we include valuable imports for a working LCD screen  
-    - These two lines of code will import important libraries that allow us to communicate with our LCD screen and display our data  
+    - These two lines of code will import important libraries that allow us to communicate with our LCD screen and display our data    
 
 
 ~~~c++
@@ -143,6 +143,7 @@ long debounceDelay = 50; //debounce time, which is set as low as possible
 3. Now we are ready to move into our `void setup()` code and we can start with something cool to get setup! 
     - Remember that this code is ran once and should just be used to setup the arduino device  
     - We are going to do this in two steps, the first step is going to show your true programming power  
+
 
 ~~~c++
 void setup()
