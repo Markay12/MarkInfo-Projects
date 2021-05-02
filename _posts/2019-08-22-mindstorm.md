@@ -5,7 +5,7 @@ date: 2012-05-23
 excerpt: "Autonomous driving robot used to simulate transportation."
 project: true
 tags: [Project, Automation, MATLAB]
-feature: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1402%2F8033%2Fproducts%2Fcompetitionmodel1_copy_200x200.jpg%3Fv%3D1533058720&f=1&nofb=1
+feature: https://education.lego.com/v3/assets/blt293eea581807678a/blt28c00f53ab7c2c9e/5ec66257a320cd4409cdbe91/ev3-highschool-explorer.jpg?auto=webp&format=jpg&width=600&quality=90&fit=bounds
 comments: false
 ---
 
