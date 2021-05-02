@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mindstorm EV3 Autonomous Robot"
-date: 2012-05-23
+date: 2019-08-22
 excerpt: "Autonomous driving robot used to simulate transportation."
 project: true
 tags: [Project, Automation, MATLAB]
