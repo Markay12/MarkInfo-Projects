@@ -1,37 +1,31 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Mark and the Projects
+tags: [about, Projects, Personal]
+date: 2021-05-02
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## Welcome!
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+My name is Mark Ashinhust and I am a Computer Systems Engineering student at Arizona State University. Along with Computer Systems Engineering I am also studying Computational Mathematics. I am in my third year of my undergraduate degree, looking to graduate in four.  
 
-## Preview
+Here you will find a portfolio with many of the projects that I have worked on in my time at ASU and since my love for computers and engineering began. At many places on this site you can find my email [ashinhust.brass@gmail.com]. Please feel free to contact me with any questions.  
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## About Me
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+I have lived in Surprise, Arizona and Tempe, Arizona all of my life. I am currently 19 years old, turning 20 in September. I did not have many plans going into college when I was in High School. I knew that I wanted to but didn't have much preference on where I was going to go.  
 
-## Getting Started
+The two main things I was focused on during my time before college were computers and music. Music is a large part of my life and has been a way for me to relax and became something that I really enjoy. I have played the piano for almost 12-13 years and trumpet for 7. At the same time, I was interested in computers and began taking classes at school. Then comes my senior year of high school where I had to make a tough decision on what I wanted to pursue as a career. I decided to choose Computer Systems Engineering and have never looked back.  
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+My goal is to continue working through my degree at ASU and build into an internship somewhere in the surrounding areas. Once I have completed my degree and have a chance to move down new paths into a career I would like to branch out and see the world. I want to help the world in any way that I can while doing something that I love. Seeing the world has been a passion of mine for a while and I believe that as long as I keep trying and working hard I can find a way.  
+
+## About my Projects
+
+A lot of these projects will be designed around material that I have learned throughout my time at ASU. Therefore, some of the material cannot be step-by-step for privacy and copyright purposes. Please email me if there is something you would like more information on.  
+
+Some of these projects will provide a step-by-step guide on how to complete it, along with pictures on how I did myself! A few have videos that I upload onto my youtube channel as a demo and the rest will provide pictures and information.
+
+Enjoy! 
+
+<img src="/assets/img/profilePic.jpg" width="400">
