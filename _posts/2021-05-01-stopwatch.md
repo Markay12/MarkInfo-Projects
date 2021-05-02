@@ -41,14 +41,14 @@ Once you have all of these we can begin!
 
 Here is what we have to begin with!  
 
-<img src="/media/UNOBoard.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="200">
-<img src="/media/LCDDisp.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="200">
-<img src="/media/USBCable.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="200">
+<img src="/assets/img/UNOBoard.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="200">
+<img src="/assets/img/LCDDisp.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="200">
+<img src="/assets/img/USBCable.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="200">
 <p style="clear: both;">
 
 1. Now that we have our items, we can take the LCD Keypad and connect it to the pins on the UNO Board. (Make sure to line them up and press down)  
 
-<img src="/media/StepOneConnection.jpg" width="200">
+<img src="/assets/img/StepOneConnection.jpg" width="200">
 
 2. Connect your Standard USB Cable to the Arduino UNO Board and connect it to your computer.  
 3. Now we are ready to begin and can go over to our computer!  
@@ -60,7 +60,7 @@ Here is what we have to begin with!
 In order to properly program and upload our code to our new Arduino device, we need to use the [Arudino IDE](https://www.arduino.cc/en/software)
 - The current version at time of publication is IDE 1.8.13, however, most information should not see a large update
 
-<img src="/media/ArduinoTemplate.png" width="600">
+<img src="/assets/img/ArduinoTemplate.png" width="600">
 
 We now have all the software that we need and can begin working on our Stopwatch!
 
@@ -162,7 +162,7 @@ Awesome! You've now uploaded the first few words to your arduino device! But how
 2. Once there, you should see port as one of the options
 3. Make sure that your Arduino device is connected to a powered USB port in your computer and select this port
 
-<img src="/media/ToolsTest.png" width="400">
+<img src="/assets/img/ToolsTest.png" width="400">
 
 If this does not work reference Part 7 of the tutorial where we work through device manager to get this setup  
 
@@ -197,15 +197,15 @@ There shouldn't be any issues with verifying our code, however, if there are jus
 
 The button to verify is the left check mark and once you're done with that you can hit the rightarrow and upload it to the device! Once you hit upload take a look at your screen!  
 
-<img src="/media/VerifyUpload.png" width="200">
+<img src="/assets/img/VerifyUpload.png" width="200">
 
 ---  
 
 Great! Now we can begin working on our loop! But what a good start! Getting ready to continue!  
 
 > Progress Pictures
-<img src="/media/MarkStopwatch.jpg" width="300">
-<img src="/media/StartStopSetup.jpg" width="300">
+<img src="/assets/img/MarkStopwatch.jpg" width="300">
+<img src="/assets/img/StartStopSetup.jpg" width="300">
 
 ---
 
@@ -488,7 +488,7 @@ Can't find your arduino device in your tools? No worries, let's fix this.
 
 Hopefully this helps out and everything gets connected!
 
-<img src="/media/DeviceManager.png" width="500">
+<img src="/assets/img/DeviceManager.png" width="500">
 =======
 # Arduino Stopwatch! 
 
