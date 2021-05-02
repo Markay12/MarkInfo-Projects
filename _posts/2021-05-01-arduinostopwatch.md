@@ -8,3 +8,5 @@ comments: false
 ---
 
 The Arduino Stopwatch guide will be uploaded and completed shortly. A youtube video will also be created showing a demo of the completed project to come.
+
+Stopwatch page not complete. Updating Formatting
