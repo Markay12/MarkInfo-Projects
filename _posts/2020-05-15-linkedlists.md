@@ -3,6 +3,7 @@ layout: post
 title: "Java Linked Lists"
 date: 2020-05-15
 excerpt: "A Java program that describes the Linked List Data Structure"
+project: true
 tags: [Java, Data Structures]
 comments: true
 ---

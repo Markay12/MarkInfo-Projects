@@ -3,6 +3,7 @@ layout: post
 title: "Mindstorm EV3 Autonomous Robot"
 date: 2012-05-23
 excerpt: "Autonomous driving robot used to simulate transportation."
+project: true
 tags: [Project, Automation, MATLAB]
 feature: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1402%2F8033%2Fproducts%2Fcompetitionmodel1_copy_200x200.jpg%3Fv%3D1533058720&f=1&nofb=1
 comments: true
