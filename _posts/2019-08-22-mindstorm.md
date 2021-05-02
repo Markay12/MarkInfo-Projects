@@ -6,7 +6,7 @@ excerpt: "Autonomous driving robot used to simulate transportation."
 project: true
 tags: [Project, Automation, MATLAB]
 feature: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F1402%2F8033%2Fproducts%2Fcompetitionmodel1_copy_200x200.jpg%3Fv%3D1533058720&f=1&nofb=1
-comments: true
+comments: false
 ---
 
 ## **Table of Contents**
@@ -44,19 +44,16 @@ comments: true
 https://www.mathworks.com/help/supportpkg/legomindstormsev3io/ref/readcolor.html
 
 
-// How to start with automatic detection
-
+How to start with automatic detection:
 https://education.lego.com/en-us/lessons/mindstorms-ev3/object-detection#Planitem2
 
-//How to run the code
-
+How to run the code:
 https://makecode.mindstorms.com/reference/sensors/ultrasonic/on-event
 
-//set up collision alarm
-
+Set up collision alarm:
 https://www.mathworks.com/help/supportpkg/legomindstormsev3io/examples/build-a-collision-alarm-using-the-ev3-ultrasonic-sensor.html
 
-! To move the robot straight forward Motor B is 3 less power than A
+To move the robot straight forward Motor B is 3 less power than A
 
 
 
@@ -165,7 +162,7 @@ Working on the While loops was a struggle as we knew what we wanted the robot to
 
 * This is the basis for our while loop and understanding of it:
 
-``` MATLAB
+~~~c++
 
 # MATLAB
 
@@ -215,7 +212,7 @@ while 1
         end
     end
 end
-```
+~~~
 
 * Our first large problem was with the startMoving variable at the beginning. Without this the while loop would not run the way we want it to and would stop before the program would move through the while-loop
 * The next was the order in which to run through the while loop, much similar to ``` Exception ``` within Java, where the order in which you place certain loops matters. We need to make sure the robot moves further before it checks new locations
