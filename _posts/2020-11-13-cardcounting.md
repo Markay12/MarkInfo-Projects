@@ -5,6 +5,7 @@ date: 2020-11-23
 excerpt: "Clean out the virtual casinos counting these dealt cards"
 project: true
 tags: [C++, C, OOP, Data Analysis, ASU]
+feature: /assets/img/cardCount.jpg
 comments: false
 ---
 
