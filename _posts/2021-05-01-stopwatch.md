@@ -44,7 +44,8 @@ Here is what we have to begin with!
 <img src="/media/compressed/arduino/USBCable.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="200">
 <p style="clear: both;">
 
-The rest of information can be found on the Stopwatch site and source code on GitHub to get you started with coding your Arduino Stopwatch!  
+The rest of information can be found on the Stopwatch site and source code on GitHub to get you started with coding your Arduino Stopwatch!
+  
 
 [Stopwatch Guide](https://www.stopwatch.markinfo.dev/)
 [GitHub Site](https://github.com/Markay12/ArduinoStopwatch/tree/main)
