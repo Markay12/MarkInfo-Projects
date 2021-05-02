@@ -46,5 +46,5 @@ Here is what we have to begin with!
 
 The rest of information can be found on the Stopwatch site and source code on GitHub to get you started with coding your Arduino Stopwatch!  
 
-[Stopwatch Guide]()
+[Stopwatch Guide](https://www.stopwatch.markinfo.dev/)
 [GitHub Site](https://github.com/Markay12/ArduinoStopwatch/tree/main)
