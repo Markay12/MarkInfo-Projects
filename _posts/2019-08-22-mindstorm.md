@@ -4,7 +4,7 @@ title: "Mindstorm EV3 Autonomous Robot"
 date: 2019-08-22
 excerpt: "Autonomous driving robot used to simulate transportation."
 project: true
-tags: [Project, Automation, MATLAB]
+tags: [Project, Automation, MATLAB, ASU]
 feature: https://education.lego.com/v3/assets/blt293eea581807678a/blt28c00f53ab7c2c9e/5ec66257a320cd4409cdbe91/ev3-highschool-explorer.jpg?auto=webp&format=jpg&width=600&quality=90&fit=bounds
 comments: false
 ---
