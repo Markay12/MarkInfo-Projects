@@ -66,7 +66,7 @@ Here is what we have to begin with!
 In order to properly program and upload our code to our new Arduino device, we need to use the [Arudino IDE](https://www.arduino.cc/en/software)
 - The current version at time of publication is IDE 1.8.13, however, most information should not see a large update
 
-<img src="/assets/img/ArduinoTemplate.png" width="600">
+![First Methods](/assets/img/ArduinoTemplate.png)
 
 We now have all the software that we need and can begin working on our Stopwatch!
 
