@@ -41,15 +41,14 @@ Once you have all of these we can begin!
 
 Here is what we have to begin with!  
 
-<img src="/assets/img/UNOBoard.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="200">
-<img src="/assets/img/LCDDisp.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="200">
-<img src="/assets/img/USBCable.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" width="200">
-<p style="clear: both;">  
+![General Board](/assets/img/UNOBoard.jpg)
+![LCD Shield](/assets/img/LCDDisp.jpg)
+![USB Cable Power](/assets/img/USBCable.jpg)
 
 
 1. Now that we have our items, we can take the LCD Keypad and connect it to the pins on the UNO Board. (Make sure to line them up and press down)  
 
-<img src="/assets/img/StepOneConnection.jpg" width="200">  
+![First Connection](/assets/img/StepOneConnection.jpg)
 
 
 
@@ -211,8 +210,9 @@ The button to verify is the left check mark and once you're done with that you c
 Great! Now we can begin working on our loop! But what a good start! Getting ready to continue!  
 
 > Progress Pictures
-<img src="/assets/img/MarkStopwatch.jpg" width="300">
-<img src="/assets/img/StartStopSetup.jpg" width="300">
+
+![EndStopwatch](/assets/img/MarkStopwatch.jpg)
+![StartStop](/assets/img/StartStopSetup.jpg)
 
 ---
 
@@ -495,7 +495,7 @@ Can't find your arduino device in your tools? No worries, let's fix this.
 
 Hopefully this helps out and everything gets connected!
 
-<img src="/assets/img/DeviceManager.png" width="500">
+![Device Manager](/assets/img/DeviceManager.png)
 =======
 # Arduino Stopwatch! 
 
