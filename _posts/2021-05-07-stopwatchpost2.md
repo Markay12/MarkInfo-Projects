@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arduino Stopwatch Update [COMPLETE]"
-date: 2021-05-02
+date: 2021-05-07
 excerpt: "Arduino Stopwatch Project Completion"
 tags: [update]
 comments: false
