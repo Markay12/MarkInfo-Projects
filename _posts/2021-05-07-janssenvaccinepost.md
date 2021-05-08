@@ -7,9 +7,12 @@ tags: [update]
 comments: false
 ---
 
-Hypothesis: The temporary halt in distribution of the Janssen COVID-19 vaccine led to more hospitalizations and deaths compared to the amount of people who had vaccine complications.  
+## Hypothesis  
+The temporary halt in distribution of the Janssen COVID-19 vaccine led to more hospitalizations and deaths compared to the amount of people who had vaccine complications.  
 
 * The complications mentioned are those that led to the pause of the vaccine distribution. These complications are elaborated on further in the document.  
 
 This issue has similar notes as the problem with short-term climate change effects. Most citizens are more worried about smaller short-term complications rather than the larger issue that continues to grow.  
+
+## Background
 
