@@ -84,12 +84,17 @@ Continuing from information gathered by the New York Times the Janssen vaccine d
 
 ![Vaccine Pause Chart](/assets/img/VaccinePause.png)
 
-This means that the vaccine was being administered daily to approximately 425,000 - 450,000 people per seven-day average. From this data we will consider two separate cases  
+This means that the vaccine was being allocated daily to approximately 4.947 million people per seven-day average. From this data we will consider two separate cases  
 
-Case 1: The vaccine would see no increase or decrease in vaccine administration during this time period. This means that there would be a linear relationship of 425 - 450,000 administered cases per seven-day average over this time period.   
-Considering a stark decrease in the amount of doses administered over the pause of the Janssen vaccine there was a notable decrease in the amount of vaccines being administered over the time showing a decrease to and average of 700,000 delivered per day    
+Case 1: The vaccine would see no increase or decrease in vaccine administration during this time period. This means that there would be a linear relationship of approximately 4.9 million allocated vaccines per seven-day average over this time period.   
+Considering a stark decrease in the amount of doses administered over the pause of the Janssen vaccine there was a notable decrease in the amount of vaccines being administered over the time showing a decrease to and average of 700,000 delivered per day on this seven-day average      
 
 Here is the visualized data from the [CDC](https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/w9zu-fywh)...    
 
-![Data Visualization](/assets/img/VaccineDistribution.png)
+![Data Visualization](/assets/img/VaccineDistribution.png)  
 
+Taking this information in this case we can conclude that over the 10 day pause we would have allocated 49 million vaccines. Deducting the vaccines that were administered over this time (~7 million), there would have been and additional 42 million vaccines allocated during this time period.  
+
+This means that as of May 07 2021, we would have been able to deliver a total of approximately 371,840,055 vaccine doses.  
+
+![Total Doses](/assets/img/TotalVaccineDoses.png)
