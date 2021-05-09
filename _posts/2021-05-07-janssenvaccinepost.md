@@ -43,3 +43,17 @@ Per Medical News Daily, vaccine efficacy is
 > The percentage reduction in a disease in a group of people who ahve received vaccination in a clinical trial  
 This is different from *effectiveness* which tells us how well a vaccine works under real conditions (outside of clinical trials)  
 
+---
+
+## Reasoning
+
+Early April 2021 the Centers for Disease Control and Prevention (CDC) and the Food and Drug Administration (FDA) recommended a pause in the Janssen COVID-19 Vaccine.  
+The vaccine was paused due to "reports of \[a] small number of women in the US who developed a rare and severe type of blood clot within two weeks [of recieving the vaccine]"
+
+Per the CDC and FDA, distribution of the vaccine were being administered again in late April (23rd) after just over one week.  
+
+Putting this in perspective, the vaccine was first given emergency use authorization on February 27th 2021. The vaccine was then paused on April 13th and resumed April 23rd.  
+
+![Date Visualization](/assets/img/DateVisualization.png)
+
+The main purpose is to understand how many people could have been vaccinated and hypothetically protected from COVID-19 comlications over the dashed blue period of time (April 13th-23rd)
