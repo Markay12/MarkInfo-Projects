@@ -120,6 +120,7 @@ This totaled as before would give us 434,640,055 delivered vaccines as of [May 8
 ## Closing Statement
 
 It has been found that from both cases there would have been 42 million to 105 million more allocated Janssen COVID-19 vaccines allocated if there were no pause during the middle of April 2021.  
+
 Considering the 66.3% clinical efficacy of the vaccine this means that there was a chance to prevent an additional 27.8 - 70 million people from being hospitalized or killed by the COVID-19 disease.  
 
 ---
