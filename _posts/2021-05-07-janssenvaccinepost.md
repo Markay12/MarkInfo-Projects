@@ -75,10 +75,8 @@ The Janssen Vaccine has been administered to 15 countries with the US being incl
 
 According to the [CDC Covid-19 Vaccine data tracker](https://covid.cdc.gov/covid-data-tracker/#vaccination-demographic) the US COVID Vaccine Administration for the Janssen vaccine has reached 8,739,657 vaccines administered. This information is as of May 7th 2021 at 8PM Eastern Time.  
 
-During the pause from April 13th to April 23rd there were approximately 400-450 thousand COVID-19 reported cases per week  
+During the pause from April 13th to April 23rd there were approximately 400-450 thousand COVID-19 reported cases per week    
 
-
-NYTIMES SOURCE [https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html?name=styln-vaccines-combo&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&variant=1_Show&is_new=false]
 
 Continuing from information gathered by the New York Times the Janssen vaccine daily reported doses was at its highest when paused in early April  
 
