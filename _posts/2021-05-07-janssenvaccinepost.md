@@ -64,6 +64,32 @@ The main purpose is to understand how many people could have been vaccinated and
 
 ## Data
 
-Per the NY Times as of May 27th, 2021...  
+Per the [NY Times](https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html) as of May 7th, 2021...    
 
-251,973,752 doses
+251,973,752 doses of vaccine have been administered   
+* This includes all three approved vaccines at the time  
+
+The Janssen Vaccine has been administered to 15 countries with the US being included    
+
+![Janssen Country](/assets/img/jandjcountries.png)
+
+According to the [CDC Covid-19 Vaccine data tracker](https://covid.cdc.gov/covid-data-tracker/#vaccination-demographic) the US COVID Vaccine Administration for the Janssen vaccine has reached 8,739,657 vaccines administered. This information is as of May 7th 2021 at 8PM Eastern Time.  
+
+During the pause from April 13th to April 23rd there were approximately 400-450 thousand COVID-19 reported cases per week  
+
+
+NYTIMES SOURCE [https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html?name=styln-vaccines-combo&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&variant=1_Show&is_new=false]
+
+Continuing from information gathered by the New York Times the Janssen vaccine daily reported doses was at its highest when paused in early April  
+
+![Vaccine Pause Chart](/assets/img/VaccinePause.png)
+
+This means that the vaccine was being administered daily to approximately 425,000 - 450,000 people per seven-day average. From this data we will consider two separate cases  
+
+Case 1: The vaccine would see no increase or decrease in vaccine administration during this time period. This means that there would be a linear relationship of 425 - 450,000 administered cases per seven-day average over this time period.   
+Considering a stark decrease in the amount of doses administered over the pause of the Janssen vaccine there was a notable decrease in the amount of vaccines being administered over the time showing a decrease to and average of 700,000 delivered per day    
+
+Here is the visualized data from the [CDC](https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/w9zu-fywh)...    
+
+![Data Visualization](/assets/img/VaccineDistribution.png)
+
