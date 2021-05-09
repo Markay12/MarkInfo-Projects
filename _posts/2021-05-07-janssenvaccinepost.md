@@ -123,3 +123,24 @@ This totaled as before would give us 434,640,055 delivered vaccines as of [May 8
 
 It has been found that from both cases there would have been 42 million to 105 million more allocated Janssen COVID-19 vaccines allocated if there were no pause during the middle of April 2021.  
 Considering the 66.3% clinical efficacy of the vaccine this means that there was a chance to prevent an additional 27.8 - 70 million people from being hospitalized or killed by the COVID-19 disease.  
+
+---
+
+Sources:
+
+Johnson & JOHNSON'S Janssen Covid-19 Vaccine overview and safety. (n.d.). Retrieved May 09, 2021, from https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/janssen.html  
+
+CDC COVID Data Tracker. (n.d.). Retrieved May 09, 2021, from https://covid.cdc.gov/covid-data-tracker/#vaccination-demographic  
+
+Morris, S. (2021, April 30). Johnson &amp; Johnson Janssen Covid-19 Vaccine PAUSE: Johns hopkins Medicine. Retrieved May 09, 2021, from https://www.hopkinsmedicine.org/coronavirus/covid-19-vaccine/jj-vaccine-pause.html  
+
+Path to normality - covid-19 vaccine projections. (n.d.). Retrieved May 09, 2021, from https://covid19-projections.com/path-to-herd-immunity/#comparison-projected-vs-actual  
+
+The New York Times. (2020, December 17). See how the Vaccine rollout is going in your County and state. Retrieved May 09, 2021, from https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html  
+
+Holder, J. (2021, January 29). Tracking coronavirus VACCINATIONS around the world. Retrieved May 09, 2021, from https://www.nytimes.com/interactive/2021/world/covid-vaccinations-tracker.html  
+
+COVID-19 vaccine Distribution allocations by jurisdiction - JANSSEN. (n.d.). Retrieved May 09, 2021, from https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/w9zu-fywh    
+
+
+CDC COVID Data Tracker. (n.d.). Retrieved May 09, 2021, from https://covid.cdc.gov/covid-data-tracker/#vaccinations  
