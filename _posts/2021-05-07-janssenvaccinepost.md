@@ -18,16 +18,18 @@ This issue has similar notes as the problem with short-term climate change effec
 
 ## Background
 
-Name: JNJ-78436735
-Type: [Viral-Vector Vaccine](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/viralvector.html)
-* One-Shot Vaccine  
+Name: JNJ-78436735  
+Type: [Viral-Vector Vaccine](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/viralvector.html)  
+One-Shot Vaccine  
 
 ### Possible Side Effects    
-Injection Site  
+-Injection Site  
 1. Pain
 2. Swelling
-3. Redness  
-Body Reactions  
+3. Redness    
+
+-Body Reactions    
+
 1. Tiredness
 2. Headache
 3. Muscle Pain
@@ -56,4 +58,12 @@ Putting this in perspective, the vaccine was first given emergency use authoriza
 
 ![Date Visualization](/assets/img/DateVisualization.png)
 
-The main purpose is to understand how many people could have been vaccinated and hypothetically protected from COVID-19 comlications over the dashed blue period of time (April 13th-23rd)
+The main purpose is to understand how many people could have been vaccinated and hypothetically protected from COVID-19 comlications over the dashed blue period of time (April 13th-23rd)  
+
+---
+
+## Data
+
+Per the NY Times as of May 27th, 2021...  
+
+251,973,752 doses
