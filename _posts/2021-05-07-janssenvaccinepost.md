@@ -98,3 +98,28 @@ Taking this information in this case we can conclude that over the 10 day pause 
 This means that as of May 07 2021, we would have been able to deliver a total of approximately 371,840,055 vaccine doses.  
 
 ![Total Doses](/assets/img/TotalVaccineDoses.png)
+
+Case 2: This case takes the same information from the previous but shows what it would have been like in a good scenario where the vaccine doses continued to rise.   
+Considering the rate of increase in vaccine doses the slope reaching April 13th was approximately 2.461. This means that we were increasing the amount of allocated vaccines doubly per week on this seven day average.  
+
+![Slope](/assets/img/SlopeGraph.png)
+![Slope Continuation](/assets/img/SlopeIncrease.png)
+
+Therefore, it can be measured that we would have been experiencing approximately 9,528,885 doses per day over this seven-day average. Considering this increase we are left with a simple equation to understand how many doses would have been administered.    
+
+The bounds of our integral are 0 to 10 (days) and our equation will use a simple linear y = mx + b fit  
+
+Our equation is [y = 2.461x + 1.118 * 10^7]  
+
+![Equation](/assets/img/Equation.png)  
+
+Therefore, we would have allocated 111.8 million vaccines over this time period. Deducting what we did allocate during this time period, that means we would have an additional 104.8 million allocated Janssen vaccines.   
+
+This totaled as before would give us 434,640,055 delivered vaccines as of [May 8th, 2021 at 6:00am](https://covid.cdc.gov/covid-data-tracker/#vaccinations)  
+
+---
+
+## Closing Statement
+
+It has been found that from both cases there would have been 42 million to 105 million more allocated Janssen COVID-19 vaccines allocated if there were no pause during the middle of April 2021.  
+Considering the 66.3% clinical efficacy of the vaccine
