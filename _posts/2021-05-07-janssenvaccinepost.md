@@ -123,7 +123,7 @@ It has been found that from both cases there would have been 42 million to 105 m
 
 Considering the **66.3%** clinical efficacy of the vaccine this means that there was a chance to **prevent an additional 14.2 - 35.4 million people from being hospitalized or killed by the COVID-19 disease.**  
 
-Furthermore, from this information we can conclude there was a guarantee of 14.2 - 35.4 million people that were *at least* hospitalized. According to [ourworldindata.org](https://ourworldindata.org/mortality-risk-covid), the moratlity rate as of April 13th - 23rd of April was 1.79%. This means there was a chance of approximately **250,000 to 634,000** avoided deaths.  
+Furthermore, from this information we can conclude there was a guarantee of 14.2 - 35.4 million people that were *at least* hospitalized. According to [ourworldindata.org](https://ourworldindata.org/mortality-risk-covid), the moratlity rate as of April 13th - 23rd of April was 1.79%. This means there was a chance of approximately **250,000** avoided deaths.  
 
 ---
 
