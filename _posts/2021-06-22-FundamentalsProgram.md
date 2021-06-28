@@ -38,4 +38,9 @@ I include 4 different workout plans with one being completely intended for those
 
 The other three programs work at the gym but can be changed if you choose not to use the gym or don't have access to all the equipment.  
 The first plan is a 3-day per week full body workout which is a pretty good start for those who don't have a lot of time to go to the gym but want to get a lot of things done.   
-The second plan 
+
+The second plan contains a push-pull workout that should be done 4 days a week. This is the plan that I personally use right now and works well with my work schedule. This program combines a large amount of compound exercises as well as isolation exercises that are split throughout the week. This provides good time for recovery.  
+
+The last plan that I provide is a 5 day per week body part isolation program. This program is also well known as the bro-split and allows you to really gain muscle and take advantage of what is known as "noobie" gains. This is because it is a lot easier to gain significant muscle growth when you first start working out compared to when you have been training for a few years. By working out more often you can better take advantage of your body's adaptation to the new training stimulus.  
+
+## Part 5 - Diet and Nutrition  
