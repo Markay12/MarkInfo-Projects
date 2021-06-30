@@ -50,3 +50,5 @@ This is the part of the program that I have focused on the most and put the most
 About 2 years ago now I weight 210lbs and was 5' 10" tall. This weight was not from any muscle but all fat and I was a chubby kid. Since then I have been taking notice of my diet and nutrition losing 70+ pounds.  
 In this section I discuss the effects of food on the body and how it can be used to fuel your life as it should. No diet plans are included as I don't believe in them.  
 Take notice of your diet and look at what you can do to improve it! You can't outwork a bad diet!
+
+<embed src="/assets/img/FundamentalsProgram.pdf" type="application/pdf">
