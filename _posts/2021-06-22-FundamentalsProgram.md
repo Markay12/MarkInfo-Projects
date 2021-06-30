@@ -44,3 +44,9 @@ The second plan contains a push-pull workout that should be done 4 days a week. 
 The last plan that I provide is a 5 day per week body part isolation program. This program is also well known as the bro-split and allows you to really gain muscle and take advantage of what is known as "noobie" gains. This is because it is a lot easier to gain significant muscle growth when you first start working out compared to when you have been training for a few years. By working out more often you can better take advantage of your body's adaptation to the new training stimulus.  
 
 ## Part 5 - Diet and Nutrition  
+
+This is the part of the program that I have focused on the most and put the most passion into.  
+
+About 2 years ago now I weight 210lbs and was 5' 10" tall. This weight was not from any muscle but all fat and I was a chubby kid. Since then I have been taking notice of my diet and nutrition losing 70+ pounds.  
+In this section I discuss the effects of food on the body and how it can be used to fuel your life as it should. No diet plans are included as I don't believe in them.  
+Take notice of your diet and look at what you can do to improve it! You can't outwork a bad diet!
