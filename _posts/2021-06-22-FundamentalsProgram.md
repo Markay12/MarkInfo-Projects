@@ -51,4 +51,4 @@ About 2 years ago now I weight 210lbs and was 5' 10" tall. This weight was not f
 In this section I discuss the effects of food on the body and how it can be used to fuel your life as it should. No diet plans are included as I don't believe in them.  
 Take notice of your diet and look at what you can do to improve it! You can't outwork a bad diet!
 
-<embed src="/assets/img/FundamentalsProgram.pdf" type="application/pdf">
+<embed src="../assets/img/FundamentalsProgram.pdf" type="application/pdf">
