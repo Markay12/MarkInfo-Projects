@@ -4,7 +4,7 @@ title: "Discord Moderation Bot"
 date: 2020-10-09
 excerpt: "General chat moderation bot"
 project: true
-tags: [NodeJS, Bot, Personal]
+tags: [NodeJS, Bot, Personal, MongoDB]
 comments: false
 ---
 
@@ -48,13 +48,31 @@ This server continues to expand on and include our fully functioning economy whe
 New ways to use the economy are being implemented everyday and will continue to grow
 
 # Database
+---
 The economy for this server has been uploaded online so that the daily reset and amount of money will always be up to date.
 Using Mongoose Databse I was able to create a schema which tracks each userID, money, daily reset and plcae within the leaderboard.
 
 This database can be accessed through an account if any issues should occur. 
 
+## Understanding the Database and MongoDB  
+The economy for users was first created using a local machine that would hold all the information of the users and update the information according to their performance.  
+This data was then shifted to MongoDB where all user data could be tracked and updated 24/7. Therefore, there was no downtime on when users could use certain chat channels and update their currency.  
+
+This database is a part of IoT and has given access to many of the commands and roles of the bot in this server. Try them out for yourself!  
+
+From here I can then monitor activity of users as well as their collected data  
+
+![Activity](/assets/img/mongoreport.png)
+
+![CollectedData](/assets/img/mongodata.png)
+
 
 # Updates
+
+## 30 July 2021
+
+New updates to economy and standings of users  
+Everyone has been reset back to 1000 marks
 
 
 ## 12 November 2020 
