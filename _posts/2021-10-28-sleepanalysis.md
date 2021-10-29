@@ -50,3 +50,5 @@ The second form of analysis was taken with 30 point samples, each consisting of 
 The data can be viewed with the above link.
 
 _If you have any questions please contact me at ashinhust.brass@gmail.com_
+
+![Sleep Data Image](/assets/img/JupyterNotebook_SleepAnalysis.png)
