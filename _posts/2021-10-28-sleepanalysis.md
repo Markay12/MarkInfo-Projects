@@ -2,7 +2,7 @@
 layout: post
 title: "ASU Sleep Analysis"
 date: 2021-10-28
-excerpt: "What time do most ASU students attempt to sleep?"
+excerpt: "Interested in knowing what time ASU affiliates go to sleep at night? This study attempts to understand what times these college students/faculty members attempt to go to sleep. Take a look to find out."
 project: true
 tags: [Jupyter, Python, Data Analysis, Personal]
 feature: /assets/img/sleep_image.jpg
