@@ -70,3 +70,13 @@ _Can AI Moderate Content?_
 ---
 
 ## Final Notes
+
+The last chapter has the best title to encompass how this topic should end. **Can Democracy Rise to the Challenge?**
+
+We must protect ourselves from the tech innovation that is growing in this world. We need to take time to educate ourselves on what these big companies are doing and how they are influencing our lives. Data collection and use is no joke and the rising terms of service lengths (do you read these?) are just making learning even more difficult. Just reading this and taking the time to read the book is a great first step to understanding what you can do to change the course of this history and to protect yourself. (Try and learn about the GDPR and CCPA).
+
+When considering your online protection, think of it in the terms of driving a car. While driving, you not only need to rely on yourself to not end in an accident but you need to make sure that the people around you follow the rules of the road. This reliance is what we need in the tech world. We should be able to rely upon the rules by those that govern the internet and social media, rather than just ourselves.
+
+Remember, these issues are completely systemic and there are large issues that need to be resolved. We must use a lot of effort to make sure that democarcy can rise up to the challenge of this growing environment. This is everyones responsibility, the same as the world climate change epidemic. Working together we can change the course of this technological future and control our lives to make these great innovations safe for everyone.
+
+Call to action - Computer Programmers and engineers need to be held to the same ethic standpoints as doctors and everyone else. There are a lot of innovations that are coming out from this side of the world and they are really changing the environment. Computer scientists don't really have a code of ethics or something that really holds them down to what they create. Though there are certain codes, they don't mean too much with accredidation. The main point here is _integrity_ and everyone should be held to the same standards of holding people together.
