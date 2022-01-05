@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Talking to Strangers - What we should know abou the people we don't know"
+title: "Talking to Strangers - What we Should Know About the People we Don't Know"
 date: 2022-01-04
 excerpt: "How did Fidel Castro fool the CIA for a generation? Why did Neville Chamberlain think he could trust Adolf Hitler? Why are compus sexual assults on the rise? Do television sitcoms teach us something about the way we relate to one another that isn't true? Talking to Strangers is a challenging and controversial excursion through history, psychology, and scandals taken straing freom the news. In it, [author] Malcolm Gladwell revisits the deceptions of Bernie Madoff, the suicide of Sylvia Plath and the death of Sandra Bland - throwing our understanding of these stories into doubt."
 tags: [update, book]
