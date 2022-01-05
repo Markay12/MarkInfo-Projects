@@ -67,6 +67,10 @@ This chapter holds a special place in my heart because I am someone who listens 
 
 This story is one that heavily relies on what was spoken about in the previous chapter. What ultimately led to her being a prime suspect in her friends murder is just because she acted _different_. Since she did not fit the norms of how someone would react to their friends murder, she immediately became prime suspect number one.
 
+This story travels through the police's shortcomings in their interrogation of Amanda and the troubles that they caused her later in life. She had done nothing wrong and just because she acted differently than their perception of someone who should be innocent, they framed her guilt. Not only did they do this, but they changed her whole image into a sex crazed addict.
+
+This chapter also proves why it is so easy for some people to lie. All they have to do is fit societies perception of someone who is innocent.
+
 ## Chapter 8
 
 This chapter is reminiscent of the fifth chapter and moves onto a sexual assault/rape case at Stanford University. This chapter mainly brings up the issue of intoxication and its effects on the perceptions of the people around us.
@@ -78,3 +82,27 @@ Questions that I was left with at the end of this chapter fall along the lines o
 Lastly, a quote from Gladwell himself on this issue is that men in these situations not only need to learn how to act, but people need to learn how to drink _less_. However, this **DOES NOT** excuse those actions.
 
 ## Chapter 9
+
+This chapter now focuses on a new type of person. This is someone who is against you in all forms and wants to see you absolutely fail. When trying to deal with a terrorist in interrogrations, how are you going to know that you can believe what they are saying? They could be telling you anything just to get something out of it and to avoid any torture.
+
+Gladwell not only goes through some of the interrogations related to the events of 9/11, but introduces what the US military does to prepare their soldiers for torture. Some forms of torture (waterboarding) are just too effective and therefore, the military is not training the soldiers to lie but rather hold off as long as possible.
+
+The greatest piece of information that came out of this chapter is showing how torture and ways of extracting information from people will not always provide the full story. There are many studies that show, when under pressure, most people cannot recall the events of what they are being asked correctly, if at all. This brings up the question of whether we should trust someone who has been tortured, because they may not even know what they are saying and could be fabricating a story.
+
+## Chapter 10
+
+This chapter begins where we started with the topic of Sylvia Plath and brings up two ideas/concepts. These two are the concept of coupling and suicide. Both go hand in hand, however, coupling can be used for almost any event that happens around us.
+
+Going back to chapter one we learn of Sylvia Plath and her suicide because of a police officer who made some bad technical decisions when executing a traffic stop.
+
+This story is what brings in suicide and how coupling relates to it.
+
+I'll ask you a question: If someone wants to commit suicide with a specific method of execution and we take this away from them, are they just going to find another way to do it?
+
+The answer is complicated but we also have some insight into this answer. By reasoning of coupling, the answer to this question would be no. There are clear statistics showing that by removing a method of suicide from many homes (specifically carbon monoxide) rates of suicide plummeted for years. It was not only the fact that these people wanted to do it, but that it was so easy and didn't affect their image (gunshot). Other reasons compound this idea, as it was more women who would commit suicide this way due to the fact that it would not deform their features and it would preserve their body.
+
+These are the things that we don't too often think about and they definitely control a lot more than we understand.
+
+## Chapter 11
+
+Now that Gladwell has introduced coupling and the idea of suicide, he can go back to Sylvia Plath and her fateful story.
