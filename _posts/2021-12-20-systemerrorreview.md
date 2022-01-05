@@ -3,7 +3,7 @@ layout: post
 title: "System Error - Where Big Tech Went Wrong and How we can Reboot"
 date: 2021-05-07
 excerpt: "System Error is a new novel published in 2021 by Rob Reich, Mehran Sahami and Jeremy M. Weinstein with the purpose of educating the public on the dangerous effects of the evolution of technology. More importantly, it aims to describe what we should look out for and how the invasion of technology has infiltrated our daily lives."
-tags: [update]
+tags: [update, book]
 comments: false
 ---
 
