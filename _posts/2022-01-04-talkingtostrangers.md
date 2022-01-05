@@ -13,6 +13,9 @@ Malcolm Gladwell is a great author and has slowly become my favorite throughout 
 
 Gladwell begins this book with the story of Sandra Bland and the events that led to her suicide after being pulled over for a small driving infraction (not using blinker when changing lanes). He brilliantly hooks the reader into the story of Sandra and the events that unfolded that day. Additionally, this leads into the first chapter of the book beginning with spies and their deceptions (or lack thereof).
 
+---
+# Breakdown
+
 ## Chapter 1
 
 The first chapter begins with the lies and deception used by Fidel Castro in the United States having spies within the DIA and CIA. He explains that we need to listen closely to what people are saying because we don't always know who to trust.
@@ -93,7 +96,7 @@ The greatest piece of information that came out of this chapter is showing how t
 
 This chapter begins where we started with the topic of Sylvia Plath and brings up two ideas/concepts. These two are the concept of coupling and suicide. Both go hand in hand, however, coupling can be used for almost any event that happens around us.
 
-Going back to chapter one we learn of Sylvia Plath and her suicide because of a police officer who made some bad technical decisions when executing a traffic stop.
+Going back to chapter one we learn of Sylvia Plath and her suicide because of her being coupled to the idea of clean suicide. Which was clearly evident in her poetry.
 
 This story is what brings in suicide and how coupling relates to it.
 
@@ -105,4 +108,29 @@ These are the things that we don't too often think about and they definitely con
 
 ## Chapter 11
 
-Now that Gladwell has introduced coupling and the idea of suicide, he can go back to Sylvia Plath and her fateful story.
+Now that Gladwell has introduced coupling and the idea of suicide, he can now evaluate another place where coupling was found. This chapter was to really enforce the idea and show that coupling is not just found in one situation. 
+
+Gladwell explores the Kansas City Police expirements. This series of experiements was conducted by the Kansas City Police Department to find what was causing the most crime in their city and what was going to stop it. Come to find out that there is a lot to do here with coupling. People were not necessarily commiting crimes because they wanted to but rather because of their location and being coupled to the idea of crime in their city. Gladwell then explains how the police used this idea to show that removing that one "bad corner" on the street could significantly decrease crime rates. One would think that they would just move over to the next street over, but they don't. They were strongly coupled to that location. 
+
+Gladwell also cleverly places this chapter just before coming back to the story of Sandra Bland to enforce the idea of the police and the power they hold over the public.
+
+## Chapter 12
+
+We now come back to the story of Sandra Bland and her story of being pulled over by the police. 
+
+This is such a powerful story because she was just a young girl being pulled over for something so small. One could say that the reason she was pulled over was caused by the police officer. The power of this story fully illuminates the idea of talking with strangers. The whole interaction that takes place between Sandra and the police officer is a spectacle. She was afraid of him and he was afraid of her. 
+
+Ultimately this final chapter comes back to the idea of the police and the first interactions that we have with people. This is a special topic right now, as we are having lots of issues with policing in its current state. The issue is not only the cops as people but rather how they are trained to handle situations (Kim Potter). Coupling is heavy in lots of this situations and should be considered. There are lots of reasons for something to be happening and allows you to have a greater understanding of what might be going on. In the case of Sandra Bland, the officer Brian Encinia was a holy fool and even though this woman was telling the truth and trying to calm down, he just couldn't believe anything she was saying.
+
+For our own protection it is easier to blame the stranger and not default to the truth. This is exactly what Brian Encinia did with Sandra Bland. However, not considering all the information, like the case of Amanda Knox, has dire consequences and can ruin someones life.
+
+---
+
+# Final Thoughts
+
+Malcolm Gladwell produces some great literature and always finds a way to present it in such an interesting way. The interconnected stories that all cumulate to a final powerful ending will never cease to interest me.
+
+I would definitely recommend people to read this book to not only understand themselves more but the people around them. I think that we as people all need to take a step back and realize that there is a lot more going on inside the heads of those that are around us. We as a society are only now starting to understand mental health of those around us and how our actions affect them. This book has definitely made me take a step back to look at what is around me. I would suggest that after reading this you try and find what in your life is coupled with something. Why do you have good grades if you're in school? Why do you go to the gym? Why do you eat a certain way? Life around us is so interesting and there is never just one reason for something.
+
+Aren't we all just strangers?
+---
