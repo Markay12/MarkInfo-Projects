@@ -28,4 +28,4 @@ Some of these projects will provide a step-by-step guide on how to complete it, 
 
 Enjoy!
 
-<img src="../assets/img/ProfilePic.jpg" width="400">
+![Profile Picture](../assets/img/ProfilePic.jpeg)
