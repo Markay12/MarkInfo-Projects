@@ -1,49 +1,49 @@
 # Site
-title:              Mark's Engineering Projects
-bio:                'Custom Electrical/Computer Systems Engineering Projects'
-description:        "Interested in a cool project? Learn how to do one! Learn and explore interesting learning paths and ventures!"
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/circuit-logo.png' #update logo
-background:         'assets/img/circuit-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://www.projects.markinfo.dev/
+title: Mark's Engineering Projects
+bio: "Custom Electrical/Computer Systems Engineering Projects"
+description: "Interested in a cool project? Learn how to do one! Learn and explore interesting learning paths and ventures!"
+reading_time: true
+words_per_minute: 200
+logo: "assets/img/circuit-logo.png" #update logo
+background: "assets/img/circuit-big.jpg"
+tiled_bg: true # Set this true if you want to tile your background image, otherwise it will be covered
+locale: en_US
+url: https://www.projects.markinfo.dev/
 
 # Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
 kramdown:
-  input:            GFM
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..3
-  enable_coderay:   true
-mathjax:            true
+    input: GFM
+    auto_ids: true
+    footnote_nr: 1
+    entity_output: as_char
+    toc_levels: 1..3
+    enable_coderay: true
+mathjax: true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+    sass_dir: _sass
+    style: compressed
 
 # Comments
-disqus_shortname:   markayash
+disqus_shortname: markayash
 
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
+#plus:            #username
+#analytics:
+#verify:
+#ad-client:
+#ad-slot:
 #bing-verify:
-email:              ashinhust.brass@gmail.com
+email: ashinhust.brass@gmail.com
 #twitter:           username
-facebook:           mark.ashinhust
-github-url:         Markay12
+facebook: mark.ashinhust
+github-url: Markay12
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           markashinhust
+linkedin: markashinhust
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -53,7 +53,7 @@ linkedin:           markashinhust
 #foursquare:        username
 #steam:             username
 #dribbble:          username
-youtube:            UC-6yM1t8JPmNCosBQVlY1ow
+youtube: UC-6yM1t8JPmNCosBQVlY1ow
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
@@ -65,13 +65,27 @@ youtube:            UC-6yM1t8JPmNCosBQVlY1ow
 
 # Gems
 gems:
-  - jekyll-mentions
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-gist
+    - jekyll-mentions
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-gist
 
 jekyll-mentions:
     base_url: https://github.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+exclude:
+    [
+        README.md,
+        Gemfile,
+        Gemfile.lock,
+        node_modules,
+        gulpfile.js,
+        package.json,
+        _site,
+        src,
+        vendor,
+        CNAME,
+        LICENSE,
+        Rakefile,
+    ]
