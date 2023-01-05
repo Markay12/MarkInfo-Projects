@@ -2,7 +2,7 @@
 layout: post
 title: "Discipline is Destiny - Ryan Holiday"
 date: 2022-11-15
-excerpt: "Dive in to Ryan Holidays newest book "Discipline is Destiny". Ryan provides great insight into how discipline in everyday life can improve so many aspects of your day. At the same time, it is a great look at society as it is today to understand all the behaviors we make that are without thought of consequences."
+excerpt: "Dive in to Ryan Holidays newest book 'Discipline is Destiny'. Ryan provides great insight into how discipline in everyday life can improve so many aspects of your day. At the same time, it is a great look at society as it is today to understand all the behaviors we make that are without thought of consequences."
 tags: [Update, Book]
 comments: false
 ---
