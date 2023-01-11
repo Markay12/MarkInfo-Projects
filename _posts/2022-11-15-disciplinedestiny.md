@@ -14,3 +14,7 @@ The first thing that Ryan brings up before entering the first chapter is the dif
 Now that the first introduction into the main theme of the book has been made, I want to introduce the strongest points of the book to me. I will be going through the chapters and talking points and describing what really spoke to me and what I am now thinking about in my daily life. By using some of these methods in your daily life, you may see great improvements in all aspects of your mental and physical health.
 
 ## Chapter 1
+
+The chapters in this book are spread out and don't follow the typical chapters you may be used to. Ryan splits the book into chapters but has many short excerpts located within each chapter.
+
+The first chapters are centered around the exterior (your body). The first story is one that really resonated with me and dealt with the baseball player Lou Gherig. He was known for the most consecutive baseball games in history until Cal Ripken Junior. This is the first person that attributes the feeling of discipline. Lou was such a strong player and even stronger mentally. He was able to hold himself accountable for his actions and stop himself when he knew he was about to do something that he should not.

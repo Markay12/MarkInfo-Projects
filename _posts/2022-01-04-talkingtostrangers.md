@@ -3,7 +3,7 @@ layout: post
 title: "Talking to Strangers - What we Should Know About the People we Don't Know"
 date: 2022-01-04
 excerpt: "How did Fidel Castro fool the CIA for a generation? Why did Neville Chamberlain think he could trust Adolf Hitler? Why are campus sexual assaults on the rise? Do television sitcoms teach us something about the way we relate to one another that isn't true? Talking to Strangers is a challenging and controversial excursion through history, psychology, and scandals taken straight from the news. In it, [author] Malcolm Gladwell revisits the deceptions of Bernie Madoff, the suicide of Sylvia Plath and the death of Sandra Bland - throwing our understanding of these stories into doubt."
-tags: [update, book]
+tags: [Update, Book]
 comments: false
 ---
 
@@ -14,6 +14,7 @@ Malcolm Gladwell is a great author and has slowly become my favorite throughout 
 Gladwell begins this book with the story of Sandra Bland and the events that led to her suicide after being pulled over for a small driving infraction (not using blinker when changing lanes). He brilliantly hooks the reader into the story of Sandra and the events that unfolded that day. Additionally, this leads into the first chapter of the book beginning with spies and their deceptions (or lack thereof).
 
 ---
+
 # Breakdown
 
 ## Chapter 1
@@ -108,17 +109,17 @@ These are the things that we don't too often think about, and they definitely co
 
 ## Chapter 11
 
-Now that Gladwell has introduced coupling and the idea of suicide, he can now evaluate another place where coupling was found. This chapter was to really enforce the idea and show that coupling is not just found in one situation. 
+Now that Gladwell has introduced coupling and the idea of suicide, he can now evaluate another place where coupling was found. This chapter was to really enforce the idea and show that coupling is not just found in one situation.
 
-Gladwell explores the Kansas City Police experiments. This series of experiments was conducted by the Kansas City Police Department to find what was causing the most crime in their city and what was going to stop it. Come to find out that there is a lot to do here with coupling. People were not necessarily committing crimes because they wanted to but rather because of their location and being coupled to the idea of crime in their city. Gladwell then explains how the police used this idea to show that removing that one "bad corner" on the street could significantly decrease crime rates. One would think they would just move over to the next street over, but they don't. They were strongly coupled to that location. 
+Gladwell explores the Kansas City Police experiments. This series of experiments was conducted by the Kansas City Police Department to find what was causing the most crime in their city and what was going to stop it. Come to find out that there is a lot to do here with coupling. People were not necessarily committing crimes because they wanted to but rather because of their location and being coupled to the idea of crime in their city. Gladwell then explains how the police used this idea to show that removing that one "bad corner" on the street could significantly decrease crime rates. One would think they would just move over to the next street over, but they don't. They were strongly coupled to that location.
 
 Gladwell also cleverly places this chapter just before coming back to the story of Sandra Bland to enforce the idea of the police and the power they hold over the public.
 
 ## Chapter 12
 
-We now come back to the story of Sandra Bland and her story of being pulled over by the police. 
+We now come back to the story of Sandra Bland and her story of being pulled over by the police.
 
-This is such a powerful story because she was just a young girl being pulled over for something so small. One could say that the reason she was pulled over was caused by the police officer. The power of this story fully illuminates the idea of talking with strangers. The whole interaction that takes place between Sandra and the police officer is a spectacle. She was afraid of him, and he was afraid of her. 
+This is such a powerful story because she was just a young girl being pulled over for something so small. One could say that the reason she was pulled over was caused by the police officer. The power of this story fully illuminates the idea of talking with strangers. The whole interaction that takes place between Sandra and the police officer is a spectacle. She was afraid of him, and he was afraid of her.
 
 Ultimately this final chapter comes back to the idea of the police and the first interactions that we have with people. This is a special topic right now, as we are having lots of issues with policing in its current state. The issue is not only the cops as people but rather how they are trained to handle situations (Kim Potter). Coupling is heavy in lots of these situations and should be considered. There are lots of reasons for something to be happening and allows you to have a greater understanding of what might be going on. In the case of Sandra Bland, the officer Brian Encinia was a holy fool and even though this woman was telling the truth and trying to calm down, he just couldn't believe anything she was saying.
 
@@ -132,5 +133,4 @@ Malcolm Gladwell produces some great literature and always finds a way to presen
 
 I would definitely recommend people to read this book to not only understand themselves more but the people around them. I think we as people all need to take a step back and realize there is a lot more going on inside the heads of those that are around us. We as a society are only now starting to understand mental health of those around us and how our actions affect them. This book has definitely made me take a step back to look at what is around me. I would suggest that after reading this you try and find what in your life is coupled with something. Why do you have good grades if you're in school? Why do you go to the gym? Why do you eat a certain way? Life around us is so interesting and there is never just one reason for something.
 
-Aren't we all just strangers?
----
+## Aren't we all just strangers?
