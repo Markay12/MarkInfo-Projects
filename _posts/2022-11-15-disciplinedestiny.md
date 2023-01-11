@@ -18,3 +18,13 @@ Now that the first introduction into the main theme of the book has been made, I
 The chapters in this book are spread out and don't follow the typical chapters you may be used to. Ryan splits the book into chapters but has many short excerpts located within each chapter.
 
 The first chapters are centered around the exterior (your body). The first story is one that really resonated with me and dealt with the baseball player Lou Gherig. He was known for the most consecutive baseball games in history until Cal Ripken Junior. This is the first person that attributes the feeling of discipline. Lou was such a strong player and even stronger mentally. He was able to hold himself accountable for his actions and stop himself when he knew he was about to do something that he should not.
+
+This is something that we should all do in our daily lives. We should be accountable for our own actions and know how they are going to influence the rest of our lives. He had great guidance and even stronger discipline.
+
+This chapter taught me many things which I plan to summarize below:
+
+-   Always giving yourself what you want will never satisfy you. Sometimes you need to take a step back and tell yourself no. There will be another chance but just putting that second cupcake down will make the next one so much sweeter.
+
+-   This funnels into addictions and what Ryan titled as "Don't be a Slave". When reading this chapter all I could think about was being a slave to so many things in the world around us. Many people become slaves to drugs. Control your mind and your body will follow. It is so important to control yourself and not let it go.
+
+-
