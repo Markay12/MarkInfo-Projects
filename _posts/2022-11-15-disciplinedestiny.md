@@ -21,10 +21,20 @@ The first chapters are centered around the exterior (your body). The first story
 
 This is something that we should all do in our daily lives. We should be accountable for our own actions and know how they are going to influence the rest of our lives. He had great guidance and even stronger discipline.
 
-This chapter taught me many things which I plan to summarize below:
+This chapter taught me many things which I will summarize below:
 
 -   Always giving yourself what you want will never satisfy you. Sometimes you need to take a step back and tell yourself no. There will be another chance but just putting that second cupcake down will make the next one so much sweeter.
 
 -   This funnels into addictions and what Ryan titled as "Don't be a Slave". When reading this chapter all I could think about was being a slave to so many things in the world around us. Many people become slaves to drugs. Control your mind and your body will follow. It is so important to control yourself and not let it go.
 
--
+-   Distractions are too common in the world today and all around us. A good way to see this is by taking a good look at your desk at home or work. When I took a look at my desk at work and at home, I noticed so many things around me that could distract me or take away valuable work space. It is best to have a clear desk to do your work and get it done to the best of your ability.
+
+-   Show up to your life and the things that are going on around you. As quoted from the book, show up...
+
+1. When you're tired
+2. When you don't have to
+3. even if you have an excuse
+4. even if you are busy
+5. even if you won't get recognized for it.
+
+-   This next two parts of the book took me a second to think about because they were contradictory. However, I believe that if you use both of these correctly, they can be a great addition to your life.
