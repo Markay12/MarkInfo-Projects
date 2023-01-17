@@ -37,4 +37,8 @@ This chapter taught me many things which I will summarize below:
 4. even if you are busy
 5. even if you won't get recognized for it.
 
--   This next two parts of the book took me a second to think about because they were contradictory. However, I believe that if you use both of these correctly, they can be a great addition to your life.
+-   This next two parts of the book took me a second to think about because they were contradictory. However, I believe that if you use both of these correctly, they can be a great addition to your life. There are times in your life to go fast and get things done. What is the point of being lazy and not getting anything done? On the other hand though, you should take a break at times to think about what you are going to do. Overall, you need to slow down to think before you can begin going faster.
+
+-   To become really good at something, you need to have the discipline to practice it. No one became amazing at playing a certain sport or doing something in life just because they wanted to. These people had the discipline to practice what they were so interested in and became one of the best around.
+
+One part of chapter one that really spoke to me the most was titled "Sleep is an Act of Character". Most people would consider going to sleep at night as something that doesn't take a lot of discipline but it does. It takes a lot to tell yourself that you need sleep so you can perform all of your duties the next day. Taking care of your body not only takes discipline but doing it is what sets you apart from the rest and can help your performance everywhere in life.
