@@ -42,3 +42,14 @@ This chapter taught me many things which I will summarize below:
 -   To become really good at something, you need to have the discipline to practice it. No one became amazing at playing a certain sport or doing something in life just because they wanted to. These people had the discipline to practice what they were so interested in and became one of the best around.
 
 One part of chapter one that really spoke to me the most was titled "Sleep is an Act of Character". Most people would consider going to sleep at night as something that doesn't take a lot of discipline but it does. It takes a lot to tell yourself that you need sleep so you can perform all of your duties the next day. Taking care of your body not only takes discipline but doing it is what sets you apart from the rest and can help your performance everywhere in life.
+
+
+## Chapter Two
+
+This chapter dives more into the mind of the user and their thoughts. This will evaluate how you the reader feels on the inside and what you should be doing to enrich your mind and your body. 
+This is very important because the mind is so closely tied to your body and how you feel during the day. Our mental emotions control how we feel physically. An easy example of this is when something happens in your life that makes you extremely anxious and you feel like throwing up. Though chapter 1 was very important for your mindset and how you attack life, I feel that chapter 2 may be even more important as it teaches you how to train and control your mind.
+
+The main points and things to think while reading through this chapter to me are as follows.
+
+1. 
+
