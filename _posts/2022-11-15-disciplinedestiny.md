@@ -70,3 +70,7 @@ I understand this is a harsh take on being a perfectionist, however, I feel it i
 As you can tell, chapter 2 had lots of important information for controlling your mind and your life. By following these things in your life you can improve your own and the lives of the people around you. No one said that controlling your mind was easy but this is the next step to try and become a stronger individual.
 
 
+## Chapter 3
+
+Chapter three just like the other chapters moves into its own version of discipline. While the first chapter was focused on the physical body and chapter two was focused on the mind, chapter three focuses on the soul. I would consider this, the __soul__ to be a combination of our whole body. Everything from our mind to our legs to our tongue, our soul is really who we are.
+
