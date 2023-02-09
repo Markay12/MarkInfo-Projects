@@ -1,9 +1,9 @@
 # Site
 title: Mark's Engineering Projects
-bio: "Custom Electrical/Computer Systems Engineering Projects"
-description: "Interested in a cool project? Learn how to do one! Learn and explore interesting learning paths and ventures!"
+bio: "Electrical/Computer Systems Engineering Projects"
+description: "Custom Engineering Projects during my time in my undergraduate degree and research."
 reading_time: true
-words_per_minute: 200
+words_per_minute: 238
 logo: "assets/img/circuit-logo.png" #update logo
 background: "assets/img/circuit-big.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
@@ -54,7 +54,7 @@ linkedin: markashinhust
 #steam:             username
 #dribbble:          username
 #youtube: UC-6yM1t8JPmNCosBQVlY1ow
-youtube-channel:   UC-6yM1t8JPmNCosBQVlY1ow
+youtube-channel: UC-6yM1t8JPmNCosBQVlY1ow
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
