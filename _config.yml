@@ -4,7 +4,7 @@ bio: "Electrical/Computer Systems Engineering Projects"
 description: "Custom Engineering Projects during my time in my undergraduate degree and research."
 reading_time: true
 words_per_minute: 238
-logo: "assets/img/website-front.png" #update logo
+logo: "assets/img/website-front-scaled.png" #update logo
 background: "assets/img/circuit-big.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
