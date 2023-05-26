@@ -26,7 +26,24 @@ Swift incorporates the latest research on programming languages, combined with d
 In addition, Swift supports inferred types to make code cleaner and less prone to mistakes, and modules eliminate headers and provide namespaces.
 
 
-# GitHub Swift Modules
+# GitHub Swift Structure
+
+The structure of this GitHub page is setup with three main sections. The three main sections are as follows
+
+1. docs
+2. Projects 
+3. Exploratory
+
+## Docs
+
+The docs directory stores all the documented information on how to write code using swift. The docs in here include quick notes on how to use Swift and its modules. This section is more for learning about Swift and how to use the language than actual projects. Syntax, namespace, and optimization techniques are included. The learning modules included up to May 26th 2023 are
+
+1. Introduction [For Syntax]
+2. Arrays
+3. Dictionaries
+4. Navigation View
+
+All four of these are great to get started learning how to use the Swift language and start creating your own applications.
 
 
 
