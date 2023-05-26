@@ -45,6 +45,12 @@ The docs directory stores all the documented information on how to write code us
 
 All four of these are great to get started learning how to use the Swift language and start creating your own applications.
 
+## Projects
+
+The projects directory includes many projects that I have worked on and projects that you can start with yourself. They are all great starting places for anyone to get their hands on Swift. The list that I will be putting here is how I suggest starting with the projects. This is so you can begin with some easier subjects before moving onto the more difficult app programming techniques.
+
+### 
+
 
 
 
