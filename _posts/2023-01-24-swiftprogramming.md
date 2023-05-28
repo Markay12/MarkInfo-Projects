@@ -49,7 +49,7 @@ All four of these are great to get started learning how to use the Swift languag
 
 The projects directory includes many projects that I have worked on and projects that you can start with yourself. They are all great starting places for anyone to get their hands on Swift. The list that I will be putting here is how I suggest starting with the projects. This is so you can begin with some easier subjects before moving onto the more difficult app programming techniques.
 
-### Patient/Person Information Application
+### Person Information Application
 
 This is a good introductory application to learning how to use Swift and Storyboards. This application is a simple input and output based app that logs user information and based on that information, returns output.
 
@@ -58,7 +58,23 @@ This app takes users SSN, Name, and Age. This information is then stored using C
 
 <img src="/assets/img/swift_apps/patientInfoScreenshot.png" alt="Patient Information UI Image" width="200" height="300">
 
-### 
+### Patient Portal
+
+The patient portal application was developed to showcase the use of multiple different modules working together. The file structure of this project showcases how to modularize the code. There is a new file for each working sheet/part of this project. 
+
+Rather than having a button on the main view that executes a large group of code, it will call the methods and functions of the other file in the project. Therefore, this project demonstrated encapsulation and inheritance between different files and objects. 
+
+In addition to what was added above, this project exhibits a better UI design for users. As the projects continue the UI and UX will become increasingly better as we are no longer just focused on the basics of code but also usability.
+
+
+<img src="/assets/img/swift_apps/PatientPortal_AddHealth.png" alt="Patient Information UI Image" width="234" height="506.4">
+<img src="/assets/img/swift_apps/PatientPortal_MainView.png" alt="Patient Information UI Image" width="234" height="506.4">
+
+<img src="/assets/img/swift_apps/PatientPortal_CheckHealth.png" alt="Patient Information UI Image" width="234" height="506.4">
+
+The above three images showcase the main workings of the application. The user is able to add information about their health each morning and it will be added to their log. 
+
+As the user inputs information it will be checked to see whether or not they are in a healthy range for their body. This is where the check is made and will alert the user if their health readings are not good.
 
 
 ![Github Commits](https://img.shields.io/github/last-commit/Markay12/SwiftProgramming-Introduction?color=orange&label=Last%20Commit&style=plastic)
