@@ -49,7 +49,13 @@ All four of these are great to get started learning how to use the Swift languag
 
 The projects directory includes many projects that I have worked on and projects that you can start with yourself. They are all great starting places for anyone to get their hands on Swift. The list that I will be putting here is how I suggest starting with the projects. This is so you can begin with some easier subjects before moving onto the more difficult app programming techniques.
 
-### 
+### Patient/Person Information Application
+
+This is a good introductory application to learning how to use Swift and Storyboards. This application is a simple input and output based app that logs user information and based on that information, returns output.
+
+This app takes users SSN, Name, and Age. This information is then stored using CoreData on the phone. Since the information is stored, users and patients that have already been logged into the system can be searched. Example of the front UI is shown here.
+
+![Patient Info UI Image](/assets/img/swift_apps/patientInfoScreenshot.png)
 
 
 
