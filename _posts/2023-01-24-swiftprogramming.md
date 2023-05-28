@@ -55,9 +55,8 @@ This is a good introductory application to learning how to use Swift and Storybo
 
 This app takes users SSN, Name, and Age. This information is then stored using CoreData on the phone. Since the information is stored, users and patients that have already been logged into the system can be searched. Example of the front UI is shown here.
 
-![Patient Info UI Image](/assets/img/swift_apps/patientInfoScreenshot.png)
 
-
+<img src="/assets/img/swift_apps/patientInfoScreenshot.png" alt="Patient Information UI Image" width="200" height="300">
 
 
 ![Github Commits](https://img.shields.io/github/last-commit/Markay12/SwiftProgramming-Introduction?color=orange&label=Last%20Commit&style=plastic)
