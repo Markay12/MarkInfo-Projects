@@ -14,6 +14,12 @@ comments: false
 
 [Github Page](github.com/Markay12/SwiftProgramming-Introduction)
 
+<style>
+  .resized-image {
+    max-width: 400px;
+    height: auto;
+  }
+</style>
 
 # Swift Language
 
@@ -56,7 +62,6 @@ This is a good introductory application to learning how to use Swift and Storybo
 This app takes users SSN, Name, and Age. This information is then stored using CoreData on the phone. Since the information is stored, users and patients that have already been logged into the system can be searched. Example of the front UI is shown here.
 
 
-<img src="/assets/img/swift_apps/patientInfoScreenshot.png" alt="Patient Information UI Image" width="200" height="300">
 
 ### Patient Portal
 
@@ -66,11 +71,6 @@ Rather than having a button on the main view that executes a large group of code
 
 In addition to what was added above, this project exhibits a better UI design for users. As the projects continue the UI and UX will become increasingly better as we are no longer just focused on the basics of code but also usability.
 
-
-<img src="/assets/img/swift_apps/PatientPortal_AddHealth.png" alt="Patient Information UI Image" width="78" height="168.8">
-<img src="/assets/img/swift_apps/PatientPortal_MainView.png" alt="Patient Information UI Image" width="78" height="168.8">
-
-<img src="/assets/img/swift_apps/PatientPortal_CheckHealth.png" alt="Patient Information UI Image" width="78" height="168.8">
 
 The above three images showcase the main workings of the application. The user is able to add information about their health each morning and it will be added to their log. 
 
