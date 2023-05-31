@@ -64,16 +64,24 @@ Rather than having a button on the main view that executes a large group of code
 
 In addition to what was added above, this project exhibits a better UI design for users. As the projects continue the UI and UX will become increasingly better as we are no longer just focused on the basics of code but also usability.
 
+![Add Health Data Patient Portal Image](../assets/img/swift_apps/PatientPortal_AddHealth.png)
+![Check Health Data Patient Portal Image](../assets/img/swift_apps/PatientPortal_CheckHealth.png)
+![Main Patient Portal UI Design](../assets/img/swift_apps/PatientPortal_MainView.png)
 
 The above three images showcase the main workings of the application. The user is able to add information about their health each morning and it will be added to their log. 
 
 As the user inputs information it will be checked to see whether or not they are in a healthy range for their body. This is where the check is made and will alert the user if their health readings are not good.
 
-![Add Health Data Patient Portal Image](../assets/img/swift_apps/PatientPortal_AddHealth.png)
-![Check Health Data Patient Portal Image](../assets/img/swift_apps/PatientPortal_CheckHealth.png)
-![Main Patient Portal UI Design](../assets/img/swift_apps/PatientPortal_MainView.png)
+### JSON Data Access
+
+This 
+
 
 ![Github Commits](https://img.shields.io/github/last-commit/Markay12/SwiftProgramming-Introduction?color=orange&label=Last%20Commit&style=plastic)
 ![Github Contributors](https://img.shields.io/github/contributors/Markay12/SwiftProgramming-Introduction?label=Contributors)
+
+
+
+
 
 [Github Page](github.com/Markay12/SwiftProgramming-Introduction)
