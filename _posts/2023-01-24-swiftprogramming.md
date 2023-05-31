@@ -76,6 +76,7 @@ The above three images showcase the main workings of the application. The user i
 
 As the user inputs information it will be checked to see whether or not they are in a healthy range for their body. This is where the check is made and will alert the user if their health readings are not good.
 
+![Add Health Data Patient Portal Image](../assets/img/swift_apps/PatientPortal_AddHealth.png)
 
 ![Github Commits](https://img.shields.io/github/last-commit/Markay12/SwiftProgramming-Introduction?color=orange&label=Last%20Commit&style=plastic)
 ![Github Contributors](https://img.shields.io/github/contributors/Markay12/SwiftProgramming-Introduction?label=Contributors)
