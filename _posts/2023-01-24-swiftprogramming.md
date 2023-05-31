@@ -97,13 +97,50 @@ The user interface and experience has also been enhanced from previous apps to g
 ![Earthquake Information Access Main View](../assets/img/swift_apps/Earthquake_MainPage.png)
 ![Earthquake Information Tempe Data Access Earthquakes](../assets/img/swift_apps/Earthquake_TempeSearch.png)
 
+### Core Data Introduction
+
+This core data introduction accomplishes the same thing as the JSON data introduction. Core data is something that is used for iOS applications and is different than JSON. 
+
+Core Data is a framework provided by Apple for managing the storage and retrieval of data in iOS app development. It serves as an object graph and persistence framework, allowing developers to work with structured data efficiently.
+
+1. Data Model: Core Data uses a data model to define the entities (objects) and their relationships within your app. The model is represented using an .xcdatamodeld file, where you define entities, attributes, relationships, and other metadata.
+
+2. Object Graph: Core Data creates an object graph that represents the data model. It allows you to work with entities and their relationships as objects in memory. You can create, modify, and relate objects within the graph, making it easier to manage complex data structures.
+
+3. Persistence: Core Data provides built-in persistence, which means it can save the object graph to a persistent store (like a SQLite database or XML file) and retrieve it later. It handles tasks such as fetching, inserting, updating, and deleting data objects transparently, providing an abstraction layer over the underlying storage mechanism.
+
+4. Faulting: Core Data uses faulting to optimize memory usage. It only loads data into memory when it is actually accessed, and placeholders called faults are used until then. Faulting allows Core Data to efficiently manage large data sets and minimize memory footprint.
+
+5. Managed Object Context: Core Data utilizes a managed object context to handle interactions with the object graph. The context tracks changes to objects and manages the lifecycle of these objects, including saving changes to the persistent store.
+
+6. Relationships and Fetching: Core Data allows defining relationships between entities, enabling navigation between related objects. It also provides powerful querying capabilities with a rich set of APIs for fetching specific objects or executing complex queries using predicates and sort descriptors.
+
+This application is broken into six main files. The one that focuses on CoreData is Persistence.swift. This is an automatically generated file from XCode that is used when using Core Data. The purpose for the file is to manage the stack data trace of the application for data access. 
+
+Below is what each individual file accomplishes and how it relates to the app as a whole.
+
+1. Content View
+
+- All the necessary and main components of the application are within this file. The content navigation, view and modules are in this file. These files incorporate all the other modules within the body of the application. 
+- Functions are also within this file to add cities and remove cities. Though there are other modules used to show these views, functions needed to be made to accomplish these ideas. For instance, one can remove a city by swiping left on their phone. This is a commonly recognizable gesture used on most mobile devices. 
+
+2. Image Picker View
+
+- The purpose of this view is to show the user a list of their images to choose from to use for their city. This core data application takes in a list of cities and then the user can add images to showcase the city. The image picker gets access to the users images (with permission) and then allows the user to choose an image they want to use for that city. 
+- Code is used to track what images the user uses for each city. Tracking of the image that the user selects is important for core data so that the image will not go away when the user reloads the application.
+
+3. Add City View
+
+- This view is used within the main content view sheet when the user requests to add a new city. The image picker is also located within this sheet and the add city button. The add city function is the second most important sheet to this core data application other than the main sheet which stores all information. 
+
+4. City Detail View 
+   
+- This view is the main sheet for the application and is what shows information of the added cities by the user. This is the main information that encapsulates all the previous files and information for the whole functioning application. 
+
+
 
 
 ![Github Commits](https://img.shields.io/github/last-commit/Markay12/SwiftProgramming-Introduction?color=orange&label=Last%20Commit&style=plastic)
 ![Github Contributors](https://img.shields.io/github/contributors/Markay12/SwiftProgramming-Introduction?label=Contributors)
-
-
-
-
 
 [Github Page](github.com/Markay12/SwiftProgramming-Introduction)
