@@ -4,7 +4,7 @@ title: "Swift App Programming"
 date: 2023-01-24
 excerpt: "Swift is a modern and powerful programming language developed by Apple. It is designed to be fast, safe, and efficient, making it suitable for developing a wide range of software applications, including mobile apps, desktop software, and even server-side applications. This module showcases learning the Swift programming language and some of the projects I have created."
 tags: [Mobile App Development, GitHub]
-feature: 
+feature: assets/img/swift_apps/SwiftHeadline.png
 comments: false
 ---
 
