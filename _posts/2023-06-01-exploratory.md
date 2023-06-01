@@ -44,6 +44,10 @@ Social media aspects are also incorporated into this app allowing people to shar
 
 ## Progress
 
+As of today (June 01, 2023) this application is still in development. The app has its general layout with necessary features. I am soon planning to work on it with another friend who knows mobile app development and see where we can go. Firebase integration has already been made to create, delete accounts and store data on accounts as you travel in real time.
+
+### Progress Images
+
 
 ![Github Commits](https://img.shields.io/github/last-commit/Markay12/pynq-finn-FPGA?color=orange&label=Last%20Commit&style=plastic)
 ![Github Contributors](https://img.shields.io/github/contributors/Markay12/pynq-finn-fpga?label=Contributors)
