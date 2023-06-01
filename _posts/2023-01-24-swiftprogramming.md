@@ -119,25 +119,27 @@ This application is broken into six main files. The one that focuses on CoreData
 
 Below is what each individual file accomplishes and how it relates to the app as a whole.
 
-1. Content View
+**Content View**
 
 - All the necessary and main components of the application are within this file. The content navigation, view and modules are in this file. These files incorporate all the other modules within the body of the application. 
 - Functions are also within this file to add cities and remove cities. Though there are other modules used to show these views, functions needed to be made to accomplish these ideas. For instance, one can remove a city by swiping left on their phone. This is a commonly recognizable gesture used on most mobile devices. 
 
-2. Image Picker View
+**Image Picker View**
 
 - The purpose of this view is to show the user a list of their images to choose from to use for their city. This core data application takes in a list of cities and then the user can add images to showcase the city. The image picker gets access to the users images (with permission) and then allows the user to choose an image they want to use for that city. 
 - Code is used to track what images the user uses for each city. Tracking of the image that the user selects is important for core data so that the image will not go away when the user reloads the application.
 
-3. Add City View
-
+**Add City View**
 - This view is used within the main content view sheet when the user requests to add a new city. The image picker is also located within this sheet and the add city button. The add city function is the second most important sheet to this core data application other than the main sheet which stores all information. 
 
-4. City Detail View 
+**City Detail View**
    
 - This view is the main sheet for the application and is what shows information of the added cities by the user. This is the main information that encapsulates all the previous files and information for the whole functioning application. 
 
-
+![Core Data Project Main View](../assets/img/swift_apps/CoreData_Main.png)
+![Core Data Project Add View](../assets/img/swift_apps/CoreData_Front.png)
+![Core Data Project City View](../assets/img/swift_apps/CoreData_City.png)
+![Core Data Project Image Picker](../assets/img/swift_apps/CoreData_Add.png)
 
 
 ![Github Commits](https://img.shields.io/github/last-commit/Markay12/SwiftProgramming-Introduction?color=orange&label=Last%20Commit&style=plastic)
