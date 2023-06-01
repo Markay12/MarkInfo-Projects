@@ -32,7 +32,15 @@ Swift 5 brought about significant enhancements.
 3. Improvements in string handling
 4. Performance
 
-The language supports memory safety and has syntactic sugar to make code easily readable and writable.
+The language supports memory safety and has syntactic sugar to make code easily readable and writable. 
+
+### Purpose 
+
+The purpose of this application is to be a social media app focused on location and seeing the world. This app takes the best inventions that came out of popular mobile games/applications. This app takes hints from apps such as PokemonGo, Snapchat, BeReal and a few others. What it does is combine what makes all of these apps great and puts location and traveling into focus. For instance, when PokemonGo was released in 2016, people went all over their cities, neighborhoods and countries looking for pokemon. This not only brought people together (social), but it brought people outside and made them walk! 
+
+I want this application to make people more active and willing to go outside and explore the world. We have one world to live in a being able to share that experience with family and friends is great. What this application does is takes your location when you go somewhere new and logs it into your data files. Every week, month and year, it will track all the locations that you have visited and show your friends. You can then compare and see who is going the farthest and compete to see who can travel the most! 
+
+Social media aspects are also incorporated into this app allowing people to share friend requests, send messages and create your own profile! 
 
 ## Progress
 
