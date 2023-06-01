@@ -142,6 +142,13 @@ Below is what each individual file accomplishes and how it relates to the app as
 ![Core Data Project Image Picker](../assets/img/swift_apps/CoreData_Add.png)
 
 
+## Conclusion
+
+As for now, these are the only included projects in this repostitory. Some projects had to be left out so that they would not interfere with copyright and protection at Arizona State University.
+
+As always, reach out with any questions that you may have.
+
+
 ![Github Commits](https://img.shields.io/github/last-commit/Markay12/SwiftProgramming-Introduction?color=orange&label=Last%20Commit&style=plastic)
 ![Github Contributors](https://img.shields.io/github/contributors/Markay12/SwiftProgramming-Introduction?label=Contributors)
 
