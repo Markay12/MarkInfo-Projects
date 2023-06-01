@@ -48,6 +48,17 @@ As of today (June 01, 2023) this application is still in development. The app ha
 
 ### Progress Images
 
+![Sign Up View](../assets/img/exploratory/SignUpView.png)
+![Sign In View](../assets/img/exploratory/SignInView.png)
+![Main View](../assets/img/exploratory/MainView.png)
+![Settings View](../assets/img/exploratory/SettingsView.png)
+![Search View](../assets/img/exploratory/SearchView.png)
+![Stats View](../assets/img/exploratory/StatsView.png)
+![History View](../assets/img/exploratory/HistoryView.png)
+
+
+# To Be Continued...
+
 
 ![Github Commits](https://img.shields.io/github/last-commit/Markay12/pynq-finn-FPGA?color=orange&label=Last%20Commit&style=plastic)
 ![Github Contributors](https://img.shields.io/github/contributors/Markay12/pynq-finn-fpga?label=Contributors)
