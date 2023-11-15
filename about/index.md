@@ -8,7 +8,7 @@ comments: false
 
 ## Welcome!
 
-My name is Mark Ashinhust and I am a Computer Systems Engineering student at Arizona State University with a minor in Computational Mathematics. I am in my final year of my undergraduate degree, looking to graduate in four.
+My name is Mark Ashinhust and I am a Computer Systems Engineer. I was born in Surprise, Arizona in 2001 and completed my bachelors degree in Computer Systems Engineering degree at Arizona State University. 
 
 Here you will find a portfolio with many of the projects that I have worked on in my time at ASU and where my love for computers and engineering began. At many places on this site you can find my email [ashinhust.brass@gmail.com]. Please feel free to contact me with any questions.
 
@@ -23,6 +23,9 @@ I am now working at Discover Financial Services as a Unix Engineering Intern for
 [Update]
 
 As of December 2022, I have accepted a full time job that will begin in June of 2023 after I complete my degree. I will begin working with Garmin International with their Flight Management Systems team. This job includes route navigation (flight planning, calculation of a 3D trajectory through the airspace, modeling the performance characteristics of the aircraft to determine the speed and climb capability so that we can predict time of arrival and fuel consumption, takeoff and landing distance and airspeeds, AEO (All Engine's Operating) and OEI (One Engine Inop) climb performance etc.).
+
+[Update 2] 
+I have completed my degree at Arizona State University and have now begun working at Garmin International as a software engineer. I am a software engineer 1 working in Chandler, Arizona. A description of my job can be found in the above paragraph. As I continue to work on personal projects, they will be updated here. Along with the book reviews and information I gather, I hope to continue to update this site.
 
 ## About my Projects
 
