@@ -20,12 +20,19 @@ The two main things I was focused on during my time before college were computer
 
 I am now working at Discover Financial Services as a Unix Engineering Intern for the summer of 2022 in Riverwoods, IL. Once I have completed my degree and have a chance to move down new paths into a career I would like to branch out and see the world. I want to help the world in any way that I can while doing something that I love. Seeing the world has been a passion of mine for a while and I believe that as long as I keep trying and working hard I can find a way.
 
-[Update]
+### Update
 
 As of December 2022, I have accepted a full time job that will begin in June of 2023 after I complete my degree. I will begin working with Garmin International with their Flight Management Systems team. This job includes route navigation (flight planning, calculation of a 3D trajectory through the airspace, modeling the performance characteristics of the aircraft to determine the speed and climb capability so that we can predict time of arrival and fuel consumption, takeoff and landing distance and airspeeds, AEO (All Engine's Operating) and OEI (One Engine Inop) climb performance etc.).
 
-[Update 2] 
+### Update 2
+
 I have completed my degree at Arizona State University and have now begun working at Garmin International as a software engineer. I am a software engineer 1 working in Chandler, Arizona. A description of my job can be found in the above paragraph. As I continue to work on personal projects, they will be updated here. Along with the book reviews and information I gather, I hope to continue to update this site.
+
+### Update 3
+
+My professional career at Garmin has continued to be rewarding and progressive, culminating in a promotion to Software Engineer II in June of last year. I will be reaching two years at Garmin this coming June 2025 and look forward to seeing how things go. As I continue to advance, I know that I have not been updating this blog as much or contributing to new projects. However, I do plan to continue updating this and want to begin getting my Masters Degree in Electrical Engineering when I can. (The reason I haven't is because of money).
+
+Outside of my professional life, I am actively participate in a men's baseball team [aznaba.com] and continue going to the gym during the week. I enjoy fitness a lot and have a nice time when I am in the gym. Furthermore, I have begun writing a novel on my feelings and the intricacies of Artificial Intelligence, aiming for completion late this year or early 2026. I am eager to get some regular updates here and share my insight and projects.
 
 ## About my Projects
 
